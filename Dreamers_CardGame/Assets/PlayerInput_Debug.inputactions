@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "PlayerInput_Debug",
+    "maps": [
+        {
+            "name": "DebugInput",
+            "id": "ab29be55-9026-475d-aa7f-04f45e4bd2d0",
+            "actions": [
+                {
+                    "name": "Debug_Drow",
+                    "type": "Button",
+                    "id": "80f306bb-4d0f-4673-ba41-c846ea011dc1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e03a572b-2ad1-436d-9e4f-6f61b2897042",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Debug_Drow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
